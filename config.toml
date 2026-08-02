@@ -1,0 +1,8 @@
+[server]
+# Disable Streamlit's source-file watcher.
+# The watcher tries to introspect every imported module (including the
+# transformers vision models pulled in by HuggingFaceEmbeddings), and those
+# modules import torchvision — which isn't installed — producing a wall of
+# harmless ModuleNotFoundError tracebacks. We don't use hot-reload for the
+# demo, so turning the watcher off keeps the console clean.
+fileWatcherType = "none"

@@ -1,0 +1,42 @@
+[
+  {
+    "job_title": "Machine Learning Engineer",
+    "employer_name": "Fractal Analytics",
+    "job_description": "We are looking for a Machine Learning Engineer to build and deploy ML models at scale. You will work with Python, PyTorch and TensorFlow to design training pipelines, fine-tune LLMs, and ship models to production using Docker and MLflow. Strong foundation in data structures, model evaluation and MLOps is required. Experience with RAG, LangChain or LangGraph is a big plus.",
+    "job_apply_link": "https://www.linkedin.com/jobs/search/?keywords=Machine%20Learning%20Engineer",
+    "job_employment_type": "Full-time",
+    "job_country": "IN"
+  },
+  {
+    "job_title": "Computer Vision Engineer",
+    "employer_name": "Tata Consultancy Services",
+    "job_description": "Join our AI research team to develop computer vision solutions covering object detection, image and video segmentation, and OCR. You will use Python, PyTorch, OpenCV, CUDA and TensorRT to optimise models for real-time inference on edge devices. Familiarity with deployment pipelines and GPU acceleration is essential.",
+    "job_apply_link": "https://www.naukri.com/computer-vision-engineer-jobs",
+    "job_employment_type": "Full-time",
+    "job_country": "IN"
+  },
+  {
+    "job_title": "Generative AI Developer",
+    "employer_name": "Infosys",
+    "job_description": "We are hiring a Generative AI Developer to build agentic AI applications using LLMs. Responsibilities include designing RAG pipelines, building tools and agents with LangChain / LangGraph / CrewAI, and integrating vector databases such as ChromaDB, FAISS and Pinecone. Solid Python skills and prompt engineering experience required.",
+    "job_apply_link": "https://career.infosys.com/jobs",
+    "job_employment_type": "Full-time",
+    "job_country": "IN"
+  },
+  {
+    "job_title": "NLP Engineer (Multilingual)",
+    "employer_name": "Zoho Corporation",
+    "job_description": "Looking for an NLP Engineer to work on multilingual language understanding, ASR, speaker diarization and speech translation. You will build and fine-tune transformer models, evaluate them on real-world audio, and ship them behind low-latency APIs. Experience with Hugging Face, audio processing and model serving is desired.",
+    "job_apply_link": "https://www.linkedin.com/jobs/search/?keywords=NLP%20Engineer",
+    "job_employment_type": "Full-time",
+    "job_country": "IN"
+  },
+  {
+    "job_title": "Data Scientist",
+    "employer_name": "Mu Sigma",
+    "job_description": "As a Data Scientist you will turn raw data into business insight using Python, SQL and statistical modelling. You will build predictive models, run experiments, and communicate findings through Power BI dashboards. A strong grasp of machine learning fundamentals, data analysis and hyperparameter tuning is expected.",
+    "job_apply_link": "https://www.naukri.com/data-scientist-jobs",
+    "job_employment_type": "Full-time",
+    "job_country": "IN"
+  }
+]
